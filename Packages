@@ -5,7 +5,7 @@ Maintainer: Krish
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.rednick16.terraria_1.3.0.7.8-1+IOSGods.com_iphoneos-arm.deb
-Size: 191
+Size: 191070
 Description: Terraria Mod Menu by Rednick16!
 Name: Terraria Mod Menu
 Author: Red16
@@ -18,7 +18,7 @@ Maintainer: Krish
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.rednick16.terraria_1.3.0.7.8-1+IOSGods.com_iphoneos-arm.deb
-Size: 31
+Size: 31014
 Description: MCPE Mod Menu by DarkShuper!
 Name: MCPEChangerMk2
 Author: DarkShuper
@@ -31,7 +31,7 @@ Maintainer: Krish
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.xunknown.icev4_1.0.6_iphoneos-arm.deb
-Size: 301
+Size: 300716
 Description: Ice Scream 3 Mod Menu by xUnknown!
 Name: icecream Mod Menu
 Author: xUnknown-
