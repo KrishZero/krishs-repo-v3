@@ -1,0 +1,23 @@
+<package>
+	<id>com.xunknown.icev4</id>
+	<name>icecream Mod Menu</name>
+	<version>1.0.6</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>14.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Ice Scream 3 Mod Menu by xUnknown-! (i did not make this)</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

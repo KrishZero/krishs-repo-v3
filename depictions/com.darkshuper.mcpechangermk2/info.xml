@@ -1,0 +1,23 @@
+<package>
+	<id>com.darkshuper.mcpechangermk2</id>
+	<name>MCPEChangerMk2</name>
+	<version>0.0.1-beta</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>14.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>MCPE Mod Menu by DarkShuper! (i did not make this)</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

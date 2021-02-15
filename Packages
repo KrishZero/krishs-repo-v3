@@ -1,0 +1,38 @@
+Package: com.rednick16.terraria
+Version: 1.3.0.7.8-1+IOSGods.com
+Section: Tweaks
+Maintainer: Krish
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.rednick16.terraria_1.3.0.7.8-1+IOSGods.com_iphoneos-arm.deb
+Size: 191
+Description: Terraria Mod Menu by Rednick16!
+Name: Terraria Mod Menu
+Author: Red16
+Depiction: https://krishzero.github.io/krishs-repo-v3/depictions/?p=com.rednick16.terraria
+
+Package: com.darkshuper.mcpechangermk2
+Version: 0.0.1-beta
+Section: Tweaks
+Maintainer: Krish
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.rednick16.terraria_1.3.0.7.8-1+IOSGods.com_iphoneos-arm.deb
+Size: 31
+Description: MCPE Mod Menu by DarkShuper!
+Name: MCPEChangerMk2
+Author: DarkShuper
+Depiction: https://krishzero.github.io/krishs-repo-v3/depictions/?p=com.darkshuper.mcpechangermk2
+
+Package: com.xunknown.icev4
+Version: 1.0.6
+Section: Tweaks
+Maintainer: Krish
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.xunknown.icev4_1.0.6_iphoneos-arm.deb
+Size: 301
+Description: Ice Scream 3 Mod Menu by xUnknown!
+Name: MCPEChangerMk2
+Author: xUnknown-
+Depiction: https://krishzero.github.io/krishs-repo-v3/depictions/?p=com.xunknown.icev4

@@ -1,0 +1,8 @@
+Origin: Krish's Repo v3
+Label: Krish's Repo v3
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: just a cydia repo xd

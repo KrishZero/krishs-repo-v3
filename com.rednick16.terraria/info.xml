@@ -1,0 +1,23 @@
+<package>
+	<id>com.rednick16.terraria</id>
+	<name>Terraria Mod Menu</name>
+	<version>1.3.0.7.8-1+IOSGods.com</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>14.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Terraria Mod Menu by Rednick16! (i did not make this)</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

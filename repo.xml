@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Follow me on Twitter</name>
+			<url>https://mobile.twitter.com/Krish63379092</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>My Github</name>
+			<url>https://github.com/KrishZero</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+	</footerlinks>
+</repo>
